@@ -1,0 +1,25 @@
+.logo-wrapper{
+    border-top:1px solid #58b0db;
+    border-right:1px solid #58b0db;
+    border-bottom:1px solid #58b0db;
+    border-left:10px solid #58b0db;
+    border-radius: 5px;
+}
+
+.navbar-bludecor {
+    background-color:#019fe5;
+}
+.nav>li.nav_blue>a:focus, .nav>li.nav_blue>a:hover{
+	background-color:darkblue;
+	color:#FFF;
+}
+a{color:#FFF;}
+.mtop-25{margin-top:25px;}
+.m-nus-top-35{margin-top:-35px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{background-color:darkblue;}
+.navbar-default .navbar-nav>li.nav_blue>a{color:#FFF;}
+.navbar-default .navbar-toggle .icon-bar{background-color:darkblue;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{}
+
+
